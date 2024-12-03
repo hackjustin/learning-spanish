@@ -81,6 +81,39 @@
 
 ---
 
+## Past Perfect (Pasado Perfecto / Pretérito Perfecto Compuesto)  
+### When to Use:  
+- **Actions that happened and are connected to the present:**  
+  - *Hoy he estudiado mucho.* (Today I have studied a lot.)  
+- **Life experiences (without specifying when):**  
+  - *¿Alguna vez has viajado a España?* (Have you ever traveled to Spain?)  
+
+### Formation:  
+**Haber (present tense) + past participle (-ado/-ido)**  
+- **Haber conjugation:**  
+  - he, has, ha, hemos, han  
+
+### Regular Verbs:  
+- **-ar:** estudiar → estudiado  
+- **-er:** comer → comido  
+- **-ir:** abrir → abierto  
+
+### Irregular Past Participles:  
+- decir → dicho  
+- hacer → hecho  
+- ver → visto  
+- escribir → escrito  
+- volver → vuelto  
+
+### Examples:  
+- *Yo he estudiado para mi examen.* (I have studied for my exam.)  
+- *Nosotros hemos comido en ese restaurante antes.* (We have eaten at that restaurant before.)  
+- *Ellos han abierto la puerta temprano.* (They have opened the door early.)  
+- *Tú has hecho un buen trabajo.* (You have done a good job.)  
+- *Ella ha visto esa película varias veces.* (She has seen that movie several times.)  
+
+---
+
 ## Future Tense (Futuro)  
 ### When to Use:  
 - **Actions that will happen in the future:**  
