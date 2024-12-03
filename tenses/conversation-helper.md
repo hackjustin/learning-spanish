@@ -10,96 +10,100 @@
   - *Trabajo todos los días.* (I work every day.)  
 
 ### Regular Verbs:  
-- **-ar:** hablar → hablo, hablas, habla, hablamos, hablan  
-- **-er:** comer → como, comes, come, comemos, comen  
-- **-ir:** vivir → vivo, vives, vive, vivimos, viven  
+- **-ar:** estudiar → estudio, estudias, estudia, estudiamos, estudian  
+- **-er:** aprender → aprendo, aprendes, aprende, aprendemos, aprenden  
+- **-ir:** escribir → escribo, escribes, escribe, escribimos, escriben  
 
 ### Irregular Verbs:  
-- **-ar:** estar → estoy, estás, está, estamos, están  
-- **-er:** tener → tengo, tienes, tiene, tenemos, tienen  
-- **-ir:** ir → voy, vas, va, vamos, van  
+- **-ar:** pensar → pienso, piensas, piensa, pensamos, piensan  
+- **-er:** ser → soy, eres, es, somos, son  
+- **-ir:** salir → salgo, sales, sale, salimos, salen  
 
 ### Examples:  
-- *Yo hablo con mis amigos todos los días.* (I talk with my friends every day.)  
-- *Nosotros comemos en casa los lunes.* (We eat at home on Mondays.)  
-- *Ellos viven en una ciudad grande.* (They live in a big city.)  
-- *Tú estás muy feliz hoy.* (You are very happy today.)  
-- *Yo voy al supermercado por la mañana.* (I go to the supermarket in the morning.)  
+- *Yo estudio para el examen de mañana.* (I study for tomorrow's exam.)  
+- *Nosotros aprendemos algo nuevo cada día.* (We learn something new every day.)  
+- *Ellos escriben cartas a sus amigos.* (They write letters to their friends.)  
+- *Tú piensas que este libro es interesante.* (You think this book is interesting.)  
+- *Ella es muy trabajadora.* (She is very hardworking.)  
+- *Yo salgo temprano los viernes.* (I leave early on Fridays.)  
 
 ---
 
 ## Past Tense (Pretérito)  
 ### When to Use:  
 - **Completed actions in the past with a clear time frame:**  
-  - *Ayer estudié español.* (Yesterday I studied Spanish.)  
+  - *Ayer terminé mi proyecto.* (Yesterday I finished my project.)  
 
 ### Regular Verbs:  
-- **-ar:** hablar → hablé, hablaste, habló, hablamos, hablaron  
-- **-er:** comer → comí, comiste, comió, comimos, comieron  
+- **-ar:** cocinar → cociné, cocinaste, cocinó, cocinamos, cocinaron  
+- **-er:** correr → corrí, corriste, corrió, corrimos, corrieron  
 - **-ir:** vivir → viví, viviste, vivió, vivimos, vivieron  
 
 ### Irregular Verbs:  
 - **-ar:** estar → estuve, estuviste, estuvo, estuvimos, estuvieron  
-- **-er:** tener → tuve, tuviste, tuvo, tuvimos, tuvieron  
+- **-er:** hacer → hice, hiciste, hizo, hicimos, hicieron  
 - **-ir:** ir → fui, fuiste, fue, fuimos, fueron  
 
 ### Examples:  
-- *Ayer hablé con mi profesor.* (Yesterday I spoke with my teacher.)  
-- *Nosotros comimos una pizza deliciosa.* (We ate a delicious pizza.)  
-- *Ellos vivieron en Madrid por un año.* (They lived in Madrid for a year.)  
-- *Tú estuviste en la reunión.* (You were at the meeting.)  
-- *Yo fui al parque con mis amigos.* (I went to the park with my friends.)  
+- *Yo cociné una cena especial para mi familia.* (I cooked a special dinner for my family.)  
+- *Nosotros corrimos en el parque ayer por la mañana.* (We ran in the park yesterday morning.)  
+- *Ellos vivieron en Chile por cinco años.* (They lived in Chile for five years.)  
+- *Tú estuviste en la oficina todo el día.* (You were in the office all day.)  
+- *Ella hizo un pastel delicioso.* (She made a delicious cake.)  
+- *Nosotros fuimos al museo el fin de semana pasado.* (We went to the museum last weekend.)  
 
 ---
 
 ## Past Tense (Imperfecto)  
 ### When to Use:  
 - **Ongoing or repeated past actions:**  
-  - *Cuando era niño, jugaba en el parque.* (When I was a child, I used to play in the park.)  
+  - *Cuando era niña, jugaba con mis amigos.* (When I was a child, I used to play with my friends.)  
 - **Descriptions in the past (e.g., weather, emotions, background):**  
-  - *El día estaba soleado.* (The day was sunny.)  
+  - *El día estaba lluvioso.* (The day was rainy.)  
 
 ### Regular Verbs:  
-- **-ar:** hablar → hablaba, hablabas, hablaba, hablábamos, hablaban  
-- **-er:** comer → comía, comías, comía, comíamos, comían  
-- **-ir:** vivir → vivía, vivías, vivía, vivíamos, vivían  
+- **-ar:** nadar → nadaba, nadabas, nadaba, nadábamos, nadaban  
+- **-er:** beber → bebía, bebías, bebía, bebíamos, bebían  
+- **-ir:** abrir → abría, abrías, abría, abríamos, abrían  
 
 ### Irregular Verbs:  
 - **-ar:** estar → estaba, estabas, estaba, estábamos, estaban  
-- **-er:** tener → tenía, tenías, tenía, teníamos, tenían  
+- **-er:** ser → era, eras, era, éramos, eran  
 - **-ir:** ir → iba, ibas, iba, íbamos, iban  
 
 ### Examples:  
-- *De niño, yo hablaba mucho con mis abuelos.* (As a child, I used to talk a lot with my grandparents.)  
-- *Ellos comían juntos todos los domingos.* (They used to eat together every Sunday.)  
-- *Nosotros vivíamos cerca de la playa.* (We used to live near the beach.)  
-- *Tú estabas muy cansado después de correr.* (You were very tired after running.)  
-- *Yo iba al mercado cada semana.* (I used to go to the market every week.)  
+- *De niño, yo nadaba en el río todos los veranos.* (As a child, I used to swim in the river every summer.)  
+- *Nosotros bebíamos café mientras trabajábamos.* (We used to drink coffee while we worked.)  
+- *Ellos abrían las ventanas cuando hacía calor.* (They used to open the windows when it was hot.)  
+- *Tú estabas cansado después de la caminata.* (You were tired after the walk.)  
+- *Yo era muy curioso cuando era pequeño.* (I was very curious when I was little.)  
+- *Nosotros íbamos a la playa los fines de semana.* (We used to go to the beach on weekends.)  
 
 ---
 
 ## Future Tense (Futuro)  
 ### When to Use:  
 - **Actions that will happen in the future:**  
-  - *Mañana viajaré a Madrid.* (Tomorrow I will travel to Madrid.)  
+  - *Mañana visitaré a mi abuela.* (Tomorrow I will visit my grandmother.)  
 - **Making predictions:**  
-  - *El clima será perfecto.* (The weather will be perfect.)  
+  - *Será un día maravilloso.* (It will be a wonderful day.)  
 
 ### Regular Verbs:  
-- **-ar:** hablar → hablaré, hablarás, hablará, hablaremos, hablarán  
-- **-er:** comer → comeré, comerás, comerá, comeremos, comerán  
-- **-ir:** vivir → viviré, vivirás, vivirá, viviremos, vivirán  
+- **-ar:** trabajar → trabajaré, trabajarás, trabajará, trabajaremos, trabajarán  
+- **-er:** leer → leeré, leerás, leerá, leeremos, leerán  
+- **-ir:** asistir → asistiré, asistirás, asistirá, asistiremos, asistirán  
 
 ### Irregular Verbs:  
 - **-ar:** estar → estaré, estarás, estará, estaremos, estarán  
-- **-er:** tener → tendré, tendrás, tendrá, tendremos, tendrán  
-- **-ir:** ir → iré, irás, irá, iremos, irán  
+- **-er:** ser → seré, serás, será, seremos, serán  
+- **-ir:** venir → vendré, vendrás, vendrá, vendremos, vendrán  
 
 ### Examples:  
-- *Mañana hablaré con mi jefe.* (Tomorrow I will speak with my boss.)  
-- *Nosotros comeremos en un restaurante nuevo.* (We will eat at a new restaurant.)  
-- *Ellos vivirán en el campo en el futuro.* (They will live in the countryside in the future.)  
-- *Tú estarás listo para la reunión.* (You will be ready for the meeting.)  
-- *Yo iré al gimnasio por la tarde.* (I will go to the gym in the afternoon.)  
+- *Yo trabajaré en un proyecto importante la próxima semana.* (I will work on an important project next week.)  
+- *Nosotros leeremos el periódico mañana por la mañana.* (We will read the newspaper tomorrow morning.)  
+- *Ellos asistirán a la conferencia en abril.* (They will attend the conference in April.)  
+- *Tú estarás listo para tu presentación.* (You will be ready for your presentation.)  
+- *Yo seré un mejor hablante de español.* (I will be a better Spanish speaker.)  
+- *Nosotros vendremos a tu casa a las seis.* (We will come to your house at six.)  
 
 ---
